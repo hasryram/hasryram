@@ -24,10 +24,16 @@ GENERAL INSTRUCTIONS
 
  <fprm>
      Gender:
-<input type="radio" id="Male" name="GENDER" value="MALE">  <label for="male">MALE</label><br>  <input type="radio" id="female" name="GENDER" value="FEMALE >  <label for="female">FEMALE</label>
+<input type="radio" id="Male" name="GENDER" value="MALE"> 
+   <label for="male">MALE</label><br>  
+   <input type="radio" id="female" name="GENDER" value="FEMALE ">  
+   <label for="female">FEMALE</label>
   
     I am expert in:
-  <input type="checkbox" id="HTML name="HTML" > <label for="HTML"> HTML </label><br>   <input type="checkbox" id="CSS" name="CSS" > <label for="CSS"> CSS </label>
+  <input type="checkbox" id="HTML name="HTML" > 
+  <label for="HTML"> HTML </label><br> 
+  <input type="checkbox" id="CSS" name="CSS" > 
+       <label for="CSS"> CSS </label>
 
 <label for="fields">Field of study:</label><br>
   <input type="text" id="fields" name="fields>
